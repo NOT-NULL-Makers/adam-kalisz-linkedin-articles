@@ -14,6 +14,8 @@
 
 Published: 2025-07-22T12:04:22.529 in Prague
 
+Took: 13 min.
+
 Original article URL: https://www.linkedin.com/posts/adam-kalisz-nnm_proxmox-vmware-kaliszutelefonu-activity-7353364276960534528-LcDu
  
-[Proxmox stacked logo](./media/proxmox-logo-stacked-color.png)
+[Proxmox stacked logo](./media/moon-iphone-17-pro.jpg)
