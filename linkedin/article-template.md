@@ -18,4 +18,4 @@ Took: 13 min.
 
 Original article URL: https://www.linkedin.com/posts/adam-kalisz-nnm_proxmox-vmware-kaliszutelefonu-activity-7353364276960534528-LcDu
  
-[Proxmox stacked logo](./media/moon-iphone-17-pro.jpg)
+[Proxmox stacked logo](./media/ai-enterprise-no-clue.png)
